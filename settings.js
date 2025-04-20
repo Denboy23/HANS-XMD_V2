@@ -12,8 +12,8 @@ global.ownername = "HANSTZ"
 global.ytname = "HANSTZ-TECH"
 global.socialm = "GitHub: Mrhanstz"
 global.location = "AFRICA, TANZANIA, DODOMA"
-global.ownernumber = '255756530143'  //creator number
-global.ownername = 'HANSTZ' //owner name
+global.ownernumber = '263789085533'  //creator number
+global.ownername = '𝐷𝐸ℕ𝐵𝙊𝑌☆' //owner name
 global.botname = 'HANS-XMD' //name of the bot
 //sticker details
 global.packname = 'Sticker By'
